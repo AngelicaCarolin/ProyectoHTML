@@ -1,0 +1,71 @@
+
+figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 400px;
+    margin: auto;
+}
+
+img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+figcaption {
+    font-size: 15px;
+    background-color:#222;
+    color: white;
+    font:  italic  sans-serif;
+    padding-top: 25px;
+    text-align: center;
+    width: 400px;
+    height: 80px;
+}
+h1{
+ text-align: center;
+ color: maroon;
+}
+#stitulo{
+    color:white;
+    background-color: maroon;
+    text-align: center;
+}
+#p1{
+    font-size: 45px;
+}
+
+#principal{
+    background-color: #eaeaea;
+    width: 800px;
+    height: 1350px;
+    margin: 300px;
+    margin-top: 400px;
+    border: solid 30px;
+}
+#personajes{
+    font-size: 35px;
+    color: ;
+
+}
+#infop{
+    text-align: center;
+    font-size: 25px;;
+}
+
+#trayectoria{
+    font-size: 30px;
+    color: maroon;
+    margin-left: 10px;
+}
+body{
+    background-color: maroon;
+}
+#lista{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#plista{
+    font-size: 15px;
